@@ -1,4 +1,7 @@
 # STR
+
+https://JimFawcett.github.io/STR.html
+
 string class used for demonstration - not intended to replace std::string
 
 Illustrates how C++ classes work.  Provides a complete implementation for a string value type, 
